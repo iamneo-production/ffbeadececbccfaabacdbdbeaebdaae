@@ -19,7 +19,7 @@ public class DepositServlet extends HttpServlet {
        
     public DepositServlet() {
         super();
-        // TODO Auto-generated constructor stub
+        
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) 
